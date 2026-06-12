@@ -67,11 +67,10 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gupta-vinay123&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gupta-vinay123&theme=dark&hide_border=false" width="48%" />
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-vinay123&theme=dark&hide_border=false&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gupta-vinay123&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gupta-vinay123&theme=dark&hide_border=false" height="195" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-vinay123&theme=dark&hide_border=false&layout=compact" height="195" alt="Top Languages" />
 </div>
 
 <br>
@@ -79,9 +78,7 @@
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
   
-  <a href="https://github.com/gupta-vinay123">
-    <img src="https://github-profile-trophy.vercel.app/?username=gupta-vinay123&theme=radical&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=gupta-vinay123&theme=radical&no-bg=true" alt="GitHub Trophies Server Down" />
   
   <br><br>
   
