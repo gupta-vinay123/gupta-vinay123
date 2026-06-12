@@ -78,7 +78,7 @@
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=gupta-vinay123&theme=radical&no-bg=true" alt="GitHub Trophies Server Down" />
+  
   
   <br><br>
   
