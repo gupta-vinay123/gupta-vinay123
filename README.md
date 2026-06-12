@@ -78,11 +78,18 @@
 
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=gupta-vinay123&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-  <br>
-  <br>
-  <img src="https://visitcount.itsvg.in/api?id=gupta-vinay123&icon=0&color=0" alt="Profile Views" />
+  
+  <a href="https://github.com/gupta-vinay123">
+    <img src="https://github-profile-trophy.vercel.app/?username=gupta-vinay123&theme=radical&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+  
+  <br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=gupta-vinay123&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
 </div>
+
+<br>
+<br>
 
 <div align="center">
   <i>"The best way to predict the future is to invent it." — Alan Kay</i>
